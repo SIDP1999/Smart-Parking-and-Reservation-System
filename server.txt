@@ -1,0 +1,42 @@
+
+
+103.21.58.192
+db/username: qr_parking_3
+password: Password@123
+http://my-demo.in/qr_parking_3/AdminLogin.aspx
+
+
+
+
+
+---------------------------------------------------------
+
+Webite: .net framework
+pages : HTML, CSS , ASP.net
+code : C#
+
+----------------------------------------------------------
+
+Lobby 
+
+Usernae:siddheshpawar84.sp@gmail.com
+Password:6TTWT8ca
+
+Website 
+
+Admin
+
+Username-admin
+Password-admin`
+----------------------------------------------------------
+
+App user
+
+siddheshpawar1111@gmail.com 
+password:siddhesh
+
+
+App admin
+
+Username-inor@gmail.com 
+Password-1234
